@@ -1,0 +1,1 @@
+此处写模型子类，继承‘model_set/model/model_base.py’。
